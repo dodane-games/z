@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moregames>
+   <pushgame>
+      <name>Helix Stack Ball</name>
+      <icon>https://lh3.googleusercontent.com/wAHRsoWbF22NblMgW6SY8kUNECAEK_sMwkAjbeDPzvjCPOVi7JNOaE3p99eA4hRrPf4=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.stackball.jump.helix.smash.ball</link>
+      <status>1</status>
+   </pushgame>
+   <sale>
+      <name>Stickman Rescue</name>
+      <icon>https://lh3.googleusercontent.com/5rjn8scHct-nHhK4x-Kjq923bxYYm-tjMtuEk3f6g4zjIR2gXWxWn5SIEFc4THKKOyI=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodanegames.roperescue</link>
+            <proportion>100</proportion>
+     <status>0</status>
+   </sale>
+   <sale>
+      <name>Princess salon</name>
+      <icon>https://lh3.googleusercontent.com/4wit8dXp1vtsf0UV_LuaRkip-Ij_Kgzl9cuVQcZZ1VTNVUKT2haRDgeIwUAplyOXFg=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodaneigames.princesssalon</link>
+            <proportion>100</proportion>
+     <status>0</status>
+   </sale>
+   <sale>
+      <name>Bricks Breaker</name>
+      <icon>https://lh3.googleusercontent.com/afBrNH5-ewxWx98AcbPHlOGtVuYObD-ncm0gIOH3dqwusSoBc6vqNiimXrk3XWfuP1c=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.bricksbreaker</link>
+            <proportion>100</proportion>
+     <status>0</status>
+   </sale>
+   <sale>
+      <name>Traffic Car Run</name>
+      <icon>https://lh3.googleusercontent.com/kYSQpWtXW8TJ_BR8OUMR49fGKQ-wEoCG2xY3yKCvPsqB15iKVzsJO_xHBZPvcxx89g=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.car.traffic.run</link>
+            <proportion>100</proportion>
+     <status>0</status>
+   </sale>
+   <sale>
+      <name>Moto Bike Attack</name>
+      <icon>https://lh3.googleusercontent.com/JwzJjE48vAh5xyWCjHlzJGtKomPYdQcRapC7PVxLjUoFrOSlEiysmQtoaBtiqI454pgo=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.death.racing.attack.simulator.gang.stunt.moto</link>
+            <proportion>100</proportion>
+     <status>0</status>
+   </sale>
+   <app>
+      <name>Helix Stack Ball</name>
+      <icon>https://lh3.googleusercontent.com/wAHRsoWbF22NblMgW6SY8kUNECAEK_sMwkAjbeDPzvjCPOVi7JNOaE3p99eA4hRrPf4=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.stackball.jump.helix.smash.ball</link>
+   </app>
+   <app>
+      <name>Stickman Rescue</name>
+      <icon>https://lh3.googleusercontent.com/5rjn8scHct-nHhK4x-Kjq923bxYYm-tjMtuEk3f6g4zjIR2gXWxWn5SIEFc4THKKOyI=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodanegames.roperescue</link>
+   </app>
+   <app>
+      <name>Princess salon</name>
+      <icon>https://lh3.googleusercontent.com/4wit8dXp1vtsf0UV_LuaRkip-Ij_Kgzl9cuVQcZZ1VTNVUKT2haRDgeIwUAplyOXFg=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodaneigames.princesssalon</link>
+   </app>
+   <app>
+      <name>Bricks Breaker</name>
+      <icon>https://lh3.googleusercontent.com/afBrNH5-ewxWx98AcbPHlOGtVuYObD-ncm0gIOH3dqwusSoBc6vqNiimXrk3XWfuP1c=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.bricksbreaker</link>
+   </app>
+   <app>
+      <name>Traffic Car Run</name>
+      <icon>https://lh3.googleusercontent.com/kYSQpWtXW8TJ_BR8OUMR49fGKQ-wEoCG2xY3yKCvPsqB15iKVzsJO_xHBZPvcxx89g=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.car.traffic.run</link>
+   </app>
+   <app>
+      <name>Moto Bike Attack</name>
+      <icon>https://lh3.googleusercontent.com/JwzJjE48vAh5xyWCjHlzJGtKomPYdQcRapC7PVxLjUoFrOSlEiysmQtoaBtiqI454pgo=s200-rw</icon>
+      <link>https://play.google.com/store/apps/details?id=com.dodane.death.racing.attack.simulator.gang.stunt.moto</link>
+   </app>
+</moregames>
